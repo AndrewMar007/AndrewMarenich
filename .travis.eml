@@ -1,8 +1,8 @@
 language: generic
 deploy:
   provider: s3
-  access_key_id: AKIAJBVG2677NITAV37Q
-  secret_access_key: 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
+  access_key_id: AKIAIFWFE2MXN3PD6FUA
+  secret_access_key: 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
     secure:
   bucket: git-to-amazon-s3-andrew-marenich-outputbucket-inegzmh1jttr
   on:
