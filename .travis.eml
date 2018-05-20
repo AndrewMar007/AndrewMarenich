@@ -1,0 +1,10 @@
+language: generic
+deploy:
+  provider: s3
+  access_key_id: AKIAJBVG2677NITAV37Q
+  secret_access_key: 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
+    secure:
+  bucket: git-to-amazon-s3-andrew-marenich-outputbucket-inegzmh1jttr
+  on:
+    repo: AndrewMar007/AndrewMarenich
+  acl: public_read
