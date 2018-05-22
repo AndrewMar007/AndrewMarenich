@@ -19,13 +19,13 @@ p {
 }
 .leftcolumn {
     background: #f44268;
-     justify-content: space-around;
+    width: 30%;
     
 }
 
 .rightcolumn {
     background: #f4c242;
-     justify-content: space-around;
+    width: 30%;
 
 }
 
