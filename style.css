@@ -19,11 +19,14 @@ p {
 }
 .leftcolumn {
     background: #f44268;
+     justify-content: space-around;
     
 }
 
 .rightcolumn {
-    background: green;
+    background: #f4c242;
+     justify-content: space-around;
+
 }
 
 .one {
@@ -35,7 +38,7 @@ p {
 }
 
 .two {
-    background: blue;
+    background: #b26031;
     width: 700px;
 }
 
@@ -48,12 +51,12 @@ p {
 }
 
 .five{
-    background: #41f4f4;
+    background: #41b2f4;
     width: 300px;
 }
 
 .six {
-background: black;
+background: #d341f4;
     width: 700px;
 }
 
