@@ -34,12 +34,12 @@ p {
  flex-direction: row;
  flex-wrap: nowrap;
  justify-content: space-around;
- width: 900px;
+ width: 700px;
 }
 
 .two {
     background: #b26031;
-    width: 900px;
+    width: 300px;
 }
 
 .three {
@@ -47,25 +47,25 @@ p {
 
 .four{
     background: #5ef441;
-    width: 500px;
+    width: 400px;
 }
 
 .five{
     background: #41b2f4;
-    width: 500px;
+    width: 400px;
 }
 
 .six {
 background: #d341f4;
-    width: 900px;
+    width: 700px;
 }
 
 .seven {
     background: #ee41f4;
-    width: 900px;
+    width: 700px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     .flex-container,.one,.six,.seven {
         flex-wrap: wrap;
         flex-direction: column;
