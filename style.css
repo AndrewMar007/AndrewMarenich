@@ -65,7 +65,7 @@ background: #d341f4;
     width: 700px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
     .flex-container,.one,.six,.seven {
         flex-wrap: wrap;
         flex-direction: column;
