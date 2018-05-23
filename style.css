@@ -34,12 +34,12 @@ p {
  flex-direction: row;
  flex-wrap: nowrap;
  justify-content: space-around;
- width: 700px;
+ width: 1000px;
 }
 
 .two {
     background: #b26031;
-    width: 700px;
+    width: 1000px;
 }
 
 .three {
@@ -47,22 +47,22 @@ p {
 
 .four{
     background: #5ef441;
-    width: 300px;
+    width: 550px;
 }
 
 .five{
     background: #41b2f4;
-    width: 300px;
+    width: 550px;
 }
 
 .six {
 background: #d341f4;
-    width: 700px;
+    width: 1000px;
 }
 
 .seven {
     background: #ee41f4;
-    width: 700px;
+    width: 1000px;
 }
 
 @media screen and (max-width: 700px) {
