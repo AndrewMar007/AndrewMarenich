@@ -16,6 +16,7 @@ body {
 }
 p { 
     margin: 0;
+    padding: 5px;
 }
 .leftcolumn {
     background: #f44268;
