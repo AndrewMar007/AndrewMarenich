@@ -71,7 +71,7 @@ background: #d341f4;
     .flex-container,.six,.seven {
         flex-wrap: wrap;
         flex-direction: column;
-        font-size: large;
+        font-size: x-large;
         
     }
     .one {
