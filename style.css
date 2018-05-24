@@ -71,10 +71,12 @@ background: #d341f4;
     .flex-container,.six,.seven {
         flex-wrap: wrap;
         flex-direction: column;
-        font-size: small;
         
     }
     .one {
         flex-wrap: nowrap;
+    }
+    p {
+        font-size: medium;
     }
 }
