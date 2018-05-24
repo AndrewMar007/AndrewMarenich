@@ -17,6 +17,7 @@ body {
 p { 
     margin: 0;
     padding: 5px;
+    font-size: medium;
 }
 .leftcolumn {
     background: #f44268;
@@ -36,6 +37,7 @@ p {
  flex-wrap: nowrap;
  justify-content: space-around;
  width: 700px;
+ 
 }
 
 .two {
