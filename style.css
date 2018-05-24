@@ -41,6 +41,7 @@ p {
 .two {
     background: #b26031;
     width: 300px;
+    height: auto;
 }
 
 .three {
@@ -67,12 +68,12 @@ background: #d341f4;
 }
 
 @media screen and (max-width: 700px) {
-    .flex-container,.one,.six,.seven {
+    .flex-container,.six,.seven {
         flex-wrap: wrap;
         flex-direction: column;
         
     }
     .one {
-        align-items: center;
+        flex-wrap: nowrap;
     }
 }
