@@ -14,8 +14,8 @@ $(document).ready(function () {
                     table += "<tr class='row" +
                             ((i % 2 === 0) // для різнокольорових рядків
                         ? "2"
-                        : "1") + "'><td class='cell'>" + result[i].last_name + " " + result[i].first_name + " "
-                     "</td></tr>";
+                        : "1") + "'><td class='cell'>" + result[i].last_name + " " + result[i].first_name + " " + result[i].hair_color + " "
+ + result[i].kind  "</td></tr>";
                 }
                 table += "</table>";
                 $("#hair").html(table); // вставляємо таблицю
